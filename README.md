@@ -1,4 +1,4 @@
-# Warhammer-for-Sandbox
+# WarhammerV2-for-Sandbox
 Bonjour 
 
 Ceci est un système Warhammer V2 développé sous Sandbox pour Foundry VTT Il est actuellement en cours de développement. A ce jour, les éléments suivants sont développés sur le template PJ *Caractéristiques : Le tableau des compétences est fonctionnel
