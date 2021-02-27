@@ -17,6 +17,8 @@ Ceci est un système Warhammer V2 développé sous Sandbox pour Foundry VTT Il e
 
 Je ne suis pas professionnels, donc si vous avez des bouts de script, des corrections à proposer je suis preneur.
 
+Lien vers le manifest : https://raw.githubusercontent.com/deckard24/WarhammerV2-for-Sandbox/main/world.json
+
 Prions pour que Tzneetch ne vienne pas mettre le bazar.
 
 Rôlistiquement votre
