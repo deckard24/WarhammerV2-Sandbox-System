@@ -14,7 +14,7 @@
   "keywords": [],
   "socket": false,
   "url": "",
-  "manifest": "",
+  "manifest": "https://raw.githubusercontent.com/deckard24/WarhammerV2-for-Sandbox/main/world.json",
   "download": "",
   "license": "",
   "readme": "",
