@@ -1,7 +1,7 @@
 {
   "name": "sandbox-warhammerv2",
-  "title": "[Sandbox]Warhammer V2",
-  "description": "Système de règle Warhammer V2 sous Sandbox",
+  "title": "[Sandbox]Warhammer V2 - Alpha",
+  "description": "Système de règle Warhammer V2 sous Sandbox - ALPHA",
   "version": "0.0.1",
   "minimumCoreVersion": "0.0.0",
   "compatibleCoreVersion": "1.0.0",
@@ -27,5 +27,5 @@
   "nextSession": null,
   "availability": 0,
   "unavailable": false,
-  "id": "sandbox-warhammerv2"
+  "id": "sandbox-system-warhammerv2"
 }
