@@ -2,7 +2,7 @@
   "name": "sandbox-warhammerv2",
   "title": "[Sandbox]Warhammer V2 - Alpha",
   "description": "Système de règle Warhammer V2 sous Sandbox - ALPHA",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "minimumCoreVersion": "0.0.0",
   "compatibleCoreVersion": "1.0.0",
   "scripts": [],
